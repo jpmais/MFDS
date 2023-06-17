@@ -1,0 +1,10 @@
+Segue as linhas de comandos que eu usei para upar arquivo para o github via gitbash.
+
+git config --global user.name "seu nome no github"
+git config --global user.email"seu e-mail no github"
+git init
+git remote add origin  https://github"link do repositório"
+git add.
+git status
+git commit -m "Primeiro commit"
+git push -u origin master
